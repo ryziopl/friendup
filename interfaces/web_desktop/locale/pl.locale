@@ -1,7 +1,7 @@
 
 File_Date                            : Data
 
-i18n_Builtin_Label_Trash             : Śmieci
+i18n_Builtin_Label_Trash             : Kosz
 i18n_Builtin_Label_Ram_disk          : Ram Door
 i18n_Builtin_Label_Home              : Home
 i18n_Builtin_Label_System            : System
@@ -14,7 +14,7 @@ i18n_install_application             : Zainstaluj program
 i18n_security_domain                 : Domena bezpieczeństwa
 i18n_looknfeel                       : Wygląd
 i18n_startup_sequence                : Sekwencja uruchamiania
-i18n_screens                         : Screens
+i18n_screens                         : Obszary robocze
 i18n_wallpaper                       : Tapeta
 i18n_printers                        : Drukarki
 i18n_network                         : Sieć
@@ -250,7 +250,7 @@ menu_fullscreen                         : Przełącz tryb pełnoekranowy
 menu_buildwebapp                        : Zbuduj aplikację internetową
 menu_icons                              : Plik
 menu_new_directory                      : Utwórz katalog
-menu_new_weblink                        : Utwórz link do strony internetowej
+menu_new_weblink                        : Utwórz link www
 menu_show_icon_information              : Właściwość
 menu_edit_filename                      : Zmień nazwę
 menu_delete                             : Usuń
@@ -425,13 +425,13 @@ i18n_what_you_share_with                : Co udostępniasz
 i18n_mark_as_read                       : Oznacz jako przeczytane
 i18n_messages_sent                      : Wiadomość wysłana...
 i18n_notifications_sent                 : Powiadomienia wysłane...
-i18n_connectingTo						: Łączenie z 
-i18n_pleaseEnterPassword				: , proszę wpisać hasło.
-i18n_passwordsDoNotMatch				: Hasła nie pasują do siebie.
-i18n_FriendNetwork						: Friend Network
-i18n_connectionFailed					: Połączenie z grupą roboczą nie powiodło się. Sprawdź hasło w ustawieniach konta.
-i18n_connectionAborted					: Połączenie z grupą roboczą zostało przerwane.
-i18n_password							: Hasło
+i18n_connectingTo						            : Łączenie z 
+i18n_pleaseEnterPassword				        : , proszę wpisać hasło.
+i18n_passwordsDoNotMatch				        : Hasła nie pasują do siebie.
+i18n_FriendNetwork						          : Friend Network
+i18n_connectionFailed					          : Połączenie z grupą roboczą nie powiodło się. Sprawdź hasło w ustawieniach konta.
+i18n_connectionAborted					        : Połączenie z grupą roboczą zostało przerwane.
+i18n_password							              : Hasło
 
 
 i18n_paste_error                        : Wklej błąd
@@ -511,7 +511,7 @@ i18n_evt_delete_failed                  : Nie udało się usunąć
 i18n_evt_delete_failed_desc             : Nie udało się usunąć wydarzenia z kalendarza.
 i18n_cannotRename						: Nie można zmienić nazwy
 i18n_cannotDelete						: Nie udało się usunąć
-i18n_noWritePermission					: Nie masz uprawnień do zapisywania na tym dysku.
+i18n_noWritePermission                  : Nie masz uprawnień do zapisywania na tym dysku.
 month_january                           : styczeń
 month_february                          : luty
 month_march                             : marzec
